@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "featured_categories": "Nature,Flower,Beach,Space,Sunset,Live",
+      "featured_categories": "Nature,Flower,Beach,Live",
       "show_wallpaper_name": false,
       "show_wallpaper_category": false,
       "enable_rtl_mode": false,

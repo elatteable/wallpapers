@@ -66,7 +66,7 @@
     {
       "category_id": 1,
       "category_name": "Nature",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
+      "category_image": "file:///android_asset/image/wallpaper_001.jpg"
     },
     {
       "category_id": 2,

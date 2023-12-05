@@ -15,6 +15,20 @@
       "privacy_policy_url": "file:///android_asset/privacy_policy.html"
     }
   ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Guide Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+    },
+    {
+      "id": 2,
+      "title": "Stream Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+    }
+  ],
   "ads": [
     {
       "ad_status": 1,
@@ -83,394 +97,520 @@
     {
       "wallpaper_id": 1,
       "category_name": "Nature",
-      "wallpaper_name": "Nature 1",
+      "wallpaper_name": "wallpaper_1",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "file:///android_asset/image/wallpaper_001.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/d7/26/52/d726521b8fefc9811a636d1d62b2740c.jpg"
     },
-	{
+    {
       "wallpaper_id": 2,
-      "category_name": "Nature",
-      "wallpaper_name": "Nature 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_2",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/d7/26/52/d726521b8fefc9811a636d1d62b2740c.jpg"
     },
-	{
+    {
       "wallpaper_id": 3,
-      "category_name": "Nature",
-      "wallpaper_name": "Nature 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_3",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/4d/c7/b9/4dc7b943dbd4eb581b2cc5ad85ca36ee.jpg"
     },
-	{
+    {
       "wallpaper_id": 4,
-      "category_name": "Nature",
-      "wallpaper_name": "Nature 4",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_4",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/d7/20/83/d7208381e6ceb91ffec03bdcfa5d99cc.jpg"
     },
-	{
+    {
       "wallpaper_id": 5,
-      "category_name": "Nature",
-      "wallpaper_name": " Nature 5",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_5",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/88/3c/a0/883ca0f2b6403640e04eb7a5c026bda1.jpg"
     },
-	{
+    {
       "wallpaper_id": 6,
-      "category_name": "Sunset",
-      "wallpaper_name": "Sunset 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_6",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/b9/0e/40/b90e4039cdc26f042031c2d90e7e5f18.jpg"
     },
-	{
+    {
       "wallpaper_id": 7,
-      "category_name": "Sunset",
-      "wallpaper_name": "Sunset 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_7",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/b4/13/c7/b413c7858cba121200a3694794e0b596.jpg"
     },
-	{
+    {
       "wallpaper_id": 8,
-      "category_name": "Sunset",
-      "wallpaper_name": "Sunset 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_8",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/07/0e/47/070e47dcc0552d24012dfac0b6ed2f5d.jpg"
     },
-	{
+    {
       "wallpaper_id": 9,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_9",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/73/07/aa/7307aada9ea423cfb558ff9b3fd0efee.jpg"
     },
-	{
+    {
       "wallpaper_id": 10,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_10",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/5a/5e/7d/5a5e7d60a1cb3ad1e308c3380abf602c.jpg"
     },
-	{
+    {
       "wallpaper_id": 11,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_11",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/69/77/68/6977689156124acf668eab504872665e.jpg"
     },
-	{
+    {
       "wallpaper_id": 12,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 4",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_12",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/e5/19/56/e51956b6fb60a1ee6da5647f832e9851.jpg"
     },
-	{
+    {
       "wallpaper_id": 13,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 5",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_13",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/f4/51/7c/f4517c2d1b90523b5dac899ce49a1817.jpg"
     },
-	{
+    {
       "wallpaper_id": 14,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_14",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/a3/9d/90/a39d903b0c4076ef30bc1c0383305442.jpg"
     },
-	{
+    {
       "wallpaper_id": 15,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_15",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/06/4e/5c/064e5ccc1debe6d6561eb3b847997d1b.jpg"
     },
-	{
+    {
       "wallpaper_id": 16,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_16",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/7b/ad/b6/7badb6a3ba7fd5ffac6d439a847cdd4f.png"
     },
-	{
+    {
       "wallpaper_id": 17,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 4",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_17",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/05/8f/57/058f574cbb40804a00429381869685db.jpg"
     },
-	{
+    {
       "wallpaper_id": 18,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 5",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_18",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/09/82/24/0982240b644e990b8e7ce6fe79b5ab1f.jpg"
     },
-	{
+    {
       "wallpaper_id": 19,
-      "category_name": "City",
-      "wallpaper_name": "City 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_19",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/06/0a/87/060a874c5d247533c43a3c12a574ab5b.jpg"
     },
-	{
+    {
       "wallpaper_id": 20,
-      "category_name": "City",
-      "wallpaper_name": "City 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_20",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ef/11/0c/ef110c04fb98fc71d09303344e991ea2.jpg"
     },
-	{
+    {
       "wallpaper_id": 21,
-      "category_name": "City",
-      "wallpaper_name": "City 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_21",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/0e/7d/f8/0e7df893aa0517b30f4195e5f96aedea.jpg"
     },
-	{
+    {
       "wallpaper_id": 22,
-      "category_name": "City",
-      "wallpaper_name": "City 4",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_22",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/6f/a3/67/6fa367676f1573e982db204cf7e1c15c.jpg"
     },
-	{
+    {
       "wallpaper_id": 23,
-      "category_name": "City",
-      "wallpaper_name": "City 5",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_23",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/dc/25/a2/dc25a2194ca82452ae30b43dfe977d1b.jpg"
     },
-	{
+    {
       "wallpaper_id": 24,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_24",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/7c/5f/f3/7c5ff35f70629e5ff28e8ffb0b4ac192.jpg"
     },
-	{
+    {
       "wallpaper_id": 25,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_25",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/a4/34/4a/a4344aa5c5a6f8b4325328c4e2460d27.jpg"
     },
-	{
+    {
       "wallpaper_id": 26,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_26",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/00/c8/70/00c870adf5c5727878163b38e29dcfd5.jpg"
     },
-	{
+    {
       "wallpaper_id": 27,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 4",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_27",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/9c/b8/c5/9cb8c55a030e4fda9d84a04cd8179bd8.jpg"
     },
-	{
+    {
       "wallpaper_id": 28,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 5",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_28",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/2b/a2/95/2ba2957a9aeb38c0fb8fd45ddca06599.jpg"
     },
-	{
+    {
       "wallpaper_id": 29,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 6",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_29",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower6.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/4a/02/af/4a02af6c4c553ef43fe458e371bc616c.jpg"
     },
-	{
+    {
       "wallpaper_id": 30,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_30",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/39/74/6e/39746e6bb621c91b180bff865f29dfb8.jpg"
     },
-	{
+    {
       "wallpaper_id": 31,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_31",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/87/e5/92/87e592e34a996565149fd4240d0d99b5.jpg"
     },
-	{
+    {
       "wallpaper_id": 32,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_32",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/6b/46/6c6b468099f54806333c1e923709d7d7.jpg"
     },
-	{
+    {
       "wallpaper_id": 33,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 4",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_33",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ef/ee/34/efee3478696a1793fa062241dbe741bb.jpg"
     },
-	{
+    {
       "wallpaper_id": 34,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 5",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_34",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/06/a6/ac/06a6acf95f9fd773e4168b5e5b17ace8.jpg"
     },
-	{
+    {
       "wallpaper_id": 35,
-      "category_name": "House",
-      "wallpaper_name": "House 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_35",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/house1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/4c/34/5c/4c345cc3a9c9a9fdd4502a4034ea39db.jpg"
     },
-	{
+    {
       "wallpaper_id": 36,
-      "category_name": "House",
-      "wallpaper_name": "House 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_36",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/house2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/d0/5c/84/d05c845c56b1f3a573762501dddb6a36.jpg"
     },
-	{
+    {
       "wallpaper_id": 37,
-      "category_name": "Space",
-      "wallpaper_name": "Space 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_37",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/d1/03/da/d103da8f5863e528ca45a148a57303dd.jpg"
     },
-	{
+    {
       "wallpaper_id": 38,
-      "category_name": "Space",
-      "wallpaper_name": "Space 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_38",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/8d/62/9c/8d629c201b3bb394d93e51f6ae92e1b3.jpg"
     },
-	{
+    {
       "wallpaper_id": 39,
-      "category_name": "Space",
-      "wallpaper_name": "Space 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_39",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/e6/80/dd/e680dd0873a92534fe6e4c1d2908b265.jpg"
     },
-	{
+    {
       "wallpaper_id": 40,
-      "category_name": "Space",
-      "wallpaper_name": "Space 4",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_40",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/8d/70/f1/8d70f1fe0d591a2084016cc44a211d08.jpg"
     },
-	{
+    {
       "wallpaper_id": 41,
-      "category_name": "Space",
-      "wallpaper_name": "Space 5",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_41",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/10/f5/17/10f517ed21a61de8896df7b3e386c687.jpg"
     },
-	{
+    {
       "wallpaper_id": 42,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_42",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/d6/8b/bf/d68bbf9d5e0eff1aca6f63b7ada286f8.jpg"
     },
     {
       "wallpaper_id": 43,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_43",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/07/74/25/077425364ef3eb4dfe5ea57a861c7b4b.jpg"
     },
     {
       "wallpaper_id": 44,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_44",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/0f/92/d6/0f92d6561ca488f8e1b8cbd3f8c7ebc1.jpg"
     },
     {
       "wallpaper_id": 45,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 4",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_45",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/6b/4b/25/6b4b25c4f74069283e51b7a471d26606.jpg"
     },
     {
       "wallpaper_id": 46,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 5",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_46",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/37/f4/11/37f41149d9737e771d63a585e51aec8c.jpg"
     },
     {
       "wallpaper_id": 47,
-      "category_name": "Road",
-      "wallpaper_name": "Road 1",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_47",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/60/ee/fb/60eefb79ae2692e4b94092b7360304c4.jpg"
     },
     {
       "wallpaper_id": 48,
-      "category_name": "Road",
-      "wallpaper_name": "Road 2",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_48",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/3e/f0/5f/3ef05f8eeda259de88c7dd03a199fda4.jpg"
     },
     {
       "wallpaper_id": 49,
-      "category_name": "Road",
-      "wallpaper_name": "Road 3",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_49",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/3f/44/9f/3f449f3ba8de5a9a20a81d06dc5be79b.jpg"
     },
     {
       "wallpaper_id": 50,
-      "category_name": "Road",
-      "wallpaper_name": "Road 4",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_50",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/bb/0d/33/bb0d33ee68efdf007572261d91574761.jpg"
     },
     {
       "wallpaper_id": 51,
-      "category_name": "Road",
-      "wallpaper_name": "Road 5",
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_51",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/b7/34/18/b734188bf8960597b5f306350877f773.png"
     },
     {
       "wallpaper_id": 52,
-      "category_name": "Live",
-      "wallpaper_name": "Live 1",
-      "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail/live1.jpg",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/live1.gif"
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_52",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/1f/66/50/1f6650d4c2ae017c14a26b31e64a2d17.jpg"
     },
     {
       "wallpaper_id": 53,
-      "category_name": "Live",
-      "wallpaper_name": "Live 2",
-      "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail/live2.jpg",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/live2.gif"
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_53",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/60/03/7f/60037f68a00dfdbd242e2d3a03fee940.jpg"
     },
     {
       "wallpaper_id": 54,
-      "category_name": "Live",
-      "wallpaper_name": "Live 3",
-      "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail/live3.jpg",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/live3.gif"
-    }
-  ],
-  "more_apps": [
-    {
-      "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_54",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/ce/ab/fc/ceabfc119e8d2aed316e4c2cfb735a5b.jpg"
     },
     {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "wallpaper_id": 55,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_55",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/b1/d1/6f/b1d16fd651caf5709e86672a19fcf005.png"
+    },
+    {
+      "wallpaper_id": 56,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_56",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/5e/71/24/5e712465bc3386c3d8888f29364e749e.jpg"
+    },
+    {
+      "wallpaper_id": 57,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_57",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/fe/7a/2f/fe7a2ff6d499fe675509f9ad44351926.jpg"
+    },
+    {
+      "wallpaper_id": 58,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_58",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/75/50/20/75502058cb51c14d7b0f5cb2b3857176.jpg"
+    },
+    {
+      "wallpaper_id": 59,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_59",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/89/a1/b2/89a1b270e77d24e937abfd5db94a31f2.jpg"
+    },
+    {
+      "wallpaper_id": 60,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_60",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/e9/30/ec/e930ec0b4bc4f8cbb7ad5ff72afe3c46.jpg"
+    },
+    {
+      "wallpaper_id": 61,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_61",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/46/34/70/4634706e1063c7e4f8525c46928ef0eb.jpg"
+    },
+    {
+      "wallpaper_id": 62,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_62",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/97/de/94/97de949dced40d3b6eaccbce4b430fe4.jpg"
+    },
+    {
+      "wallpaper_id": 63,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_63",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/24/1a/e7/241ae790e7c36e150860bc39579a3ac4.jpg"
+    },
+    {
+      "wallpaper_id": 64,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_64",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/3b/0b/c6/3b0bc647e4901029f6422c4bf8d22048.jpg"
+    },
+    {
+      "wallpaper_id": 65,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_65",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/d2/1e/77/d21e7754e091c8771cc0d54e46ec4f64.jpg"
+    },
+    {
+      "wallpaper_id": 66,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_66",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/10/07/39/100739bde449f3a2db4544bed7af7bae.jpg"
+    },
+    {
+      "wallpaper_id": 67,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_67",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/66/29/f4/6629f4530297bc4b91a7c36235cf68b2.jpg"
+    },
+    {
+      "wallpaper_id": 68,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_68",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/10/b7/d3/10b7d3bfcc35c255aaa072d024ae562a.jpg"
+    },
+    {
+      "wallpaper_id": 69,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_69",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/c8/2c/b7/c82cb70d6bde3167c8a2379bfb3aaedc.jpg"
+    },
+    {
+      "wallpaper_id": 70,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_70",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/ba/f2/69/baf26952188772ca9056020b64889371.png"
+    },
+    {
+      "wallpaper_id": 71,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_71",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/2d/97/c6/2d97c6189d6e9e86d464c44569e34daa.png"
+    },
+    {
+      "wallpaper_id": 72,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_72",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/9b/92/7f/9b927f7bf8cf0015f6ce24e80b7a4842.png"
+    },
+    {
+      "wallpaper_id": 73,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_73",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/be/7f/b2/be7fb2f0c33f6220f7f5d8f979f6802d.png"
+    },
+    {
+      "wallpaper_id": 74,
+      "name_category": "Nature",
+      "wallpaper_name": "wallpaper_74",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/d5/63/bf/d563bf62514372c94c5a1973584445e2.jpg"
     }
   ]
 }

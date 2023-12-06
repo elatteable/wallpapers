@@ -18,15 +18,15 @@
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "title": "Coming Soon",
+      "image": "https://i.pinimg.com/474x/34/41/0b/34410b6cf82175b9c9341527be2ad9fb.jpg",
+      "url": ""
     },
     {
       "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "title": "Coming Soon",
+      "image": "https://i.pinimg.com/474x/34/41/0b/34410b6cf82175b9c9341527be2ad9fb.jpg",
+      "url": ""
     }
   ],
   "ads": [
